@@ -1,0 +1,11 @@
+.venv/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.key
+.vscode/
+.idea/
+.nanobot/
+data/output/
